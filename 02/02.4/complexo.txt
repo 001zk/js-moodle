@@ -1,0 +1,1 @@
+O Object é um tipo de dado mais complexo, que pode conter propriedades e métodos. Objetos são recipientes para armazenar valores, podendo ser representados como pares chave-valor ou como estruturas mais complexas. Veja um exemplo no quadro abaixo:
